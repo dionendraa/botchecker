@@ -24,7 +24,7 @@ ip_add = {
     "192.168.0.7"
 }
 
-hookURL = "Hook URL Kalian"
+hookURL = "https://discordapp.com/api/webhooks/1034792458736898048/t_4Tu0b6iqI2sLs9MUrNZeRR9GfbnQ5l8h5GPKMGTwjgqBPC3d-6HydkFeANTG7Ip3GN"
 
 Teks_Deskripsi = "List Nick Para Babu"
 Teks_Footer = "Golek Duit Kanggo Masa Depan"
