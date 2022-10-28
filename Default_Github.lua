@@ -24,9 +24,9 @@ ip_add = {
     "192.168.0.7"
 }
 
-hookURL = "https://discordapp.com/api/webhooks/1034792458736898048/t_4Tu0b6iqI2sLs9MUrNZeRR9GfbnQ5l8h5GPKMGTwjgqBPC3d-6HydkFeANTG7Ip3GN"
+hookURL = "https://discordapp.com/api/webhooks/1035506996847325184/Y_3-pCYw2P9hq7UJYYdVaHkNqn6nJxVBKg_9t80RnCHsTqOU8ERCfKt3Y5Px5ZGEq_8O"
 
-Teks_Deskripsi = "List Nick Para Babu"
+Teks_Deskripsi = "List Para Babu"
 Teks_Footer = "Golek Duit Kanggo Masa Depan"
 
 Emote_Offline = "<:offline:982957367392088124>"
