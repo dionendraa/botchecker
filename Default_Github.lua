@@ -1,8 +1,8 @@
 Rdp = {
     {nordp = 1, botname = "c23x9ssg", Status = "aktif"},
-    {nordp = 1, botname = "zyDIv7bp", Status = "Nonaktif"},
-    {nordp = 2, botname = "dYwKFZ9y", Status = "Nonaktif"},
-    {nordp = 2, botname = "jH7d3AVc", Status = "Nonaktif"},
+    {nordp = 1, botname = "zyDIv7bp", Status = "aktif"},
+    {nordp = 2, botname = "dYwKFZ9y", Status = "aktif"},
+    {nordp = 2, botname = "jH7d3AVc", Status = "aktif"},
     {nordp = 3, botname = "Bot3", Status = "Nonaktif"},
     {nordp = 3, botname = "Bot3", Status = "Nonaktif"},
     {nordp = 4, botname = "Bot4", Status = "Nonaktif"},
