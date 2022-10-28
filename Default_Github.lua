@@ -1,8 +1,8 @@
 Rdp = {
-    {nordp = 1, botname = "c23x9ssg", Status = "aktif"},
-    {nordp = 1, botname = "zyDIv7bp", Status = "aktif"},
-    {nordp = 2, botname = "dYwKFZ9y", Status = "aktif"},
-    {nordp = 2, botname = "jH7d3AVc", Status = "aktif"},
+    {nordp = 1, botname = "c23x9ssg", Status = "nonaktif"},
+    {nordp = 1, botname = "zyDIv7bp", Status = "nonaktif"},
+    {nordp = 2, botname = "dYwKFZ9y", Status = "nonaktif"},
+    {nordp = 2, botname = "jH7d3AVc", Status = "nonaktif"},
     {nordp = 3, botname = "Bot3", Status = "Nonaktif"},
     {nordp = 3, botname = "Bot3", Status = "Nonaktif"},
     {nordp = 4, botname = "Bot4", Status = "Nonaktif"},
@@ -32,4 +32,4 @@ Teks_Footer = "Golek Duit Kanggo Masa Depan"
 Emote_Offline = "<:offline:982957367392088124>"
 Emote_Online = "<:online:982957403756716052>"
 
-menit = 2 --TIAP BERAPA MENIT BOTNYA NGIRIM WEBHOOK
+menit = 1 --TIAP BERAPA MENIT BOTNYA NGIRIM WEBHOOK
