@@ -25,7 +25,8 @@ ip_add = {
     "192.168.0.4",
     "192.168.0.5",
     "192.168.0.6",
-    "192.168.0.7"
+    "192.168.0.7",
+    "192.168.0.8"
 }
 
 hookURL = "https://discordapp.com/api/webhooks/1035506996847325184/Y_3-pCYw2P9hq7UJYYdVaHkNqn6nJxVBKg_9t80RnCHsTqOU8ERCfKt3Y5Px5ZGEq_8O"
