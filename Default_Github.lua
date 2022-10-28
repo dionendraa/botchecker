@@ -14,7 +14,7 @@ Rdp = {
     {nordp = 7, botname = "Bot7", Status = "Nonaktif"},
     {nordp = 7, botname = "Bot7", Status = "Nonaktif"},
     {nordp = 8, botname = "Bot8", Status = "Nonaktif"},
-    {nordp = 8, botname = "Bot8", Status = "Nonaktif"},
+    {nordp = 8, botname = "Bot8", Status = "Nonaktif"
 }
 
 ShowIP = true
