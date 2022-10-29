@@ -10,14 +10,10 @@ Rdp = {
     {nordp = 5, botname = "Bot5", Status = "Nonaktif"},
     {nordp = 5, botname = "Bot5", Status = "Nonaktif"},
     {nordp = 6, botname = "Bot6", Status = "Nonaktif"},
-    {nordp = 6, botname = "Bot6", Status = "Nonaktif"},
-    {nordp = 7, botname = "Bot7", Status = "Nonaktif"},
-    {nordp = 7, botname = "Bot7", Status = "Nonaktif"},
-    {nordp = 8, botname = "Bot8", Status = "Nonaktif"},
-    {nordp = 8, botname = "Bot8", Status = "Nonaktif"}
+    {nordp = 6, botname = "Bot6", Status = "Nonaktif"}
 }
 
-ShowIP = true
+ShowIP = false
 ip_add = {
     "20.169.143.194",
     "20.248.164.75",
